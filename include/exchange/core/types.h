@@ -9,4 +9,5 @@ namespace exchange
     using Price = uint32_t;
     using Quantity = uint32_t;
     using Timestamp = uint64_t;
+    using TradeId = uint64_t;
 }
